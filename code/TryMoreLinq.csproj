@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="morelinq" Version="3.1.1" />
+    <PackageReference Include="System.CommandLine.DragonFruit" Version="0.2.0-*" />
+    <PackageReference Include="System.CommandLine.Experimental" Version="0.2.0-*" />
+  </ItemGroup>
+
+</Project>
