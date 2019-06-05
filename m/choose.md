@@ -5,8 +5,10 @@ sequence of result elements for source elements where the function returns a
 couple (2-tuple) having a `true` as its first element and result as the
 second.
 
-```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-// TODO add example
+```c# --destination-file ../code/Program.cs --region expression --project ../code/TryMoreLinq.csproj
+"O,l,2,3,4,S,6,7,B,9"
+    .Split(',')
+    .Choose(s => (int.TryParse(s, out var n), n))
 ```
 
 For more details, [see the documentation][doc].
