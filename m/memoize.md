@@ -16,6 +16,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/memoize.md
+[edit]: https://github.com/morelinq/try/edit/master/m/memoize.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Memoize
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_Experimental_ExperimentalEnumerable_Memoize__1.htm

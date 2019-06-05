@@ -17,6 +17,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/choose.md
+[edit]: https://github.com/morelinq/try/edit/master/m/choose.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Choose
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_Choose__2.htm

@@ -14,6 +14,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/trace.md
+[edit]: https://github.com/morelinq/try/edit/master/m/trace.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Trace
 [doc]: https://morelinq.github.io/3.1/ref/api/html/Overload_MoreLinq_MoreEnumerable_Trace.htm

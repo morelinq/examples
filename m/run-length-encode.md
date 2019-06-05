@@ -16,6 +16,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/run-length-encode.md
+[edit]: https://github.com/morelinq/try/edit/master/m/run-length-encode.md
 [issue]: https://github.com/morelinq/try/issues/new?title=RunLengthEncode
 [doc]: https://morelinq.github.io/3.1/ref/api/html/Overload_MoreLinq_MoreEnumerable_RunLengthEncode.htm

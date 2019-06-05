@@ -16,6 +16,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/ordered-merge.md
+[edit]: https://github.com/morelinq/try/edit/master/m/ordered-merge.md
 [issue]: https://github.com/morelinq/try/issues/new?title=OrderedMerge
 [doc]: https://morelinq.github.io/3.1/ref/api/html/Overload_MoreLinq_MoreEnumerable_OrderedMerge.htm

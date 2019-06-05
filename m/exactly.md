@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/exactly.md
+[edit]: https://github.com/morelinq/try/edit/master/m/exactly.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Exactly
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_Exactly__1.htm

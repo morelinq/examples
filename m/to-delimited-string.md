@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/to-delimited-string.md
+[edit]: https://github.com/morelinq/try/edit/master/m/to-delimited-string.md
 [issue]: https://github.com/morelinq/try/issues/new?title=ToDelimitedString
 [doc]: https://morelinq.github.io/3.1/ref/api/html/Overload_MoreLinq_MoreEnumerable_ToDelimitedString.htm

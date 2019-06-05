@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/skip-until.md
+[edit]: https://github.com/morelinq/try/edit/master/m/skip-until.md
 [issue]: https://github.com/morelinq/try/issues/new?title=SkipUntil
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_SkipUntil__1.htm

@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/order-by.md
+[edit]: https://github.com/morelinq/try/edit/master/m/order-by.md
 [issue]: https://github.com/morelinq/try/issues/new?title=OrderBy
 [doc]: https://morelinq.github.io/3.1/ref/api/html/Overload_MoreLinq_MoreEnumerable_OrderBy.htm

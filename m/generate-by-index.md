@@ -14,6 +14,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/generate-by-index.md
+[edit]: https://github.com/morelinq/try/edit/master/m/generate-by-index.md
 [issue]: https://github.com/morelinq/try/issues/new?title=GenerateByIndex
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_GenerateByIndex__1.htm

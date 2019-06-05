@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/count-between.md
+[edit]: https://github.com/morelinq/try/edit/master/m/count-between.md
 [issue]: https://github.com/morelinq/try/issues/new?title=CountBetween
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_CountBetween__1.htm

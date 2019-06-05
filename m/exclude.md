@@ -14,6 +14,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/exclude.md
+[edit]: https://github.com/morelinq/try/edit/master/m/exclude.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Exclude
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_Exclude__1.htm

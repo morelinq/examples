@@ -15,6 +15,6 @@ For more details, [see the documentation][doc].
 improvement. Alternatively, you can also [report an issue you see][issue].
 
 
-[edit]: https://github.com/morelinq/try/edit/master/consume.md
+[edit]: https://github.com/morelinq/try/edit/master/m/consume.md
 [issue]: https://github.com/morelinq/try/issues/new?title=Consume
 [doc]: https://morelinq.github.io/3.1/ref/api/html/M_MoreLinq_MoreEnumerable_Consume__1.htm
