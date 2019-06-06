@@ -3,6 +3,9 @@ using MoreLinq;
 
 namespace TryMoreLinq
 {
+    // TODO Consider using CSharpObjectFormatter?
+    // https://github.com/dotnet/roslyn/blob/Visual-Studio-2019-Version-16.1/src/Scripting/CSharp/Hosting/ObjectFormatter/CSharpObjectFormatter.cs
+
     static class Console
     {
         public static void WriteLine() =>
