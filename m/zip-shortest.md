@@ -5,7 +5,12 @@ element from each of the argument sequences. The resulting sequence
 is as short as the shortest input sequence.
 
 ```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-// TODO add example
+var numbers = new[] { 1, 2, 3 };
+var letters = new[] { "A", "B", "C", "D" };
+var chars   = new[] { 'a', 'b', 'c', 'd', 'e' };
+var flags   = new[] { true, false };
+var zipped  = numbers.ZipShortest(letters, chars, flags, (n, l, c, f) => n + l + c + f);
+WriteLine(zipped);
 ```
 
 For more details, [see the documentation][doc].
