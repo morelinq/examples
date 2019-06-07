@@ -6,6 +6,9 @@ run and tested interactively in a browser using [`dotnet try`
 
 See [Setup](setup.md) for requirements and installation instructions.
 
+See the [Contribution Guidelines](CONTRIBUTING.md) if you would like to help
+contribute new examples or improve existing ones.
+
 
 ## Examples
 
