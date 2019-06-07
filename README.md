@@ -1,6 +1,5 @@
 # Try MoreLINQ
 
-
 This documentation contains examples for using [MoreLINQ]. The examples can be
 run and tested interactively in a browser using [`dotnet try`
 (Try .NET)][dotnet-try].
