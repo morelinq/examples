@@ -2,8 +2,10 @@
 
 Creates a right-aligned sliding window over the source sequence of a given size.
 
-```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-// TODO add example
+```c# --destination-file ../code/Program.cs --region expression --project ../code/TryMoreLinq.csproj
+from w in Enumerable.Range(1, 5)
+                    .WindowRight(3)
+select $"AVG({string.Join(",", w)}) = {w.Average()}"
 ```
 
 For more details, [see the documentation][doc].
