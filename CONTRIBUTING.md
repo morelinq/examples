@@ -41,6 +41,8 @@ Keep examples:
 - meaningful
 - self-contained
 
+You may use C# 8 in example code.
+
 **Wrap paragraphs in Markdown documents such that no line exceeds 78
 characters in length.** See the "Wrap Your Text" section of [Markdown Style
 Guide] on [Miguel de Icaza's Blog][tirania] for the background behind this
