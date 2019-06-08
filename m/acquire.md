@@ -34,7 +34,7 @@ The following example shows a function lazily yielding resources (objects
 implementing `IDisposable`) that are later acquired and disposed in a loop.
 
 ```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-IEnumerable<IDisposable> GetResources()
+static IEnumerable<IDisposable> GetResources()
 {
     WriteLine("Yielding resource #1");
     yield return Disposable(() => WriteLine("Resource #1 disposed"));
@@ -74,7 +74,7 @@ Suppose now `GetResources` is modified to simulate an error in the generation
 of the third resource:
 
 ```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-IEnumerable<IDisposable> GetResources()
+static IEnumerable<IDisposable> GetResources()
 {
     WriteLine("Yielding resource #1");
     yield return Disposable(() => WriteLine("Resource #1 disposed"));
