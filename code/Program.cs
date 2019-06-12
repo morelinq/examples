@@ -5,6 +5,7 @@ using System.Linq;
 using System.Reflection;
 using MoreLinq.Experimental;
 using static Delegating.Delegate;
+using Enumerable = System.Linq.Enumerable;
 using MoreEnumerable = MoreLinq.MoreEnumerable;
 using OrderByDirection = MoreLinq.OrderByDirection;
 using static MoreLinq.Extensions.AcquireExtension;
