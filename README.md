@@ -420,17 +420,17 @@ depends on the current culture of the executing thread.
 
 ### [`ToDictionary`][ToDictionary]
 
-Creates a [dictionary][dict] from a sequence of [key-value pair][kvp] elements
+Creates a [dictionary] from a sequence of [key-value pair][kvp] elements
 or tuples of 2.
 
 ### [`ToHashSet`][ToHashSet]
 
-Returns a [hash-set][hashset] of the source items using the default equality
+Returns a [hash-set] of the source items using the default equality
 comparer for the type.
 
 ### [`ToLookup`][ToLookup]
 
-Creates a [lookup][lookup] from a sequence of [key-value pair][kvp] elements
+Creates a [lookup] from a sequence of [key-value pair][kvp] elements
 or tuples of 2.
 
 ### [`Transpose`][Transpose]
@@ -515,6 +515,10 @@ source is already cached or buffered then it is returned verbatim.
 
 [MoreLINQ]: https://morelinq.github.io/
 [dotnet-try]: https://github.com/dotnet/try
+[dictionary]: https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2
+[hash-set]: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1
+[kvp]: https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2
+[lookup]: https://docs.microsoft.com/en-us/dotnet/api/system.linq.lookup-2
 
 [Acquire]: ./m/acquire.md
 [AggregateRight]: ./m/aggregate-right.md
