@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Reactive.Linq;
 using System.Reflection;
 using MoreLinq.Experimental;
 using static Delegating.Delegate;
@@ -9,6 +11,7 @@ using Enumerable = System.Linq.Enumerable;
 using MoreEnumerable = MoreLinq.MoreEnumerable;
 using OrderByDirection = MoreLinq.OrderByDirection;
 using static MoreLinq.Extensions.AcquireExtension;
+using static MoreLinq.Extensions.AggregateExtension;
 using static MoreLinq.Extensions.AggregateRightExtension;
 using static MoreLinq.Extensions.AssertCountExtension;
 using static MoreLinq.Extensions.AssertExtension;

@@ -18,6 +18,10 @@ Ensures that a source sequence of disposable objects are all acquired
 successfully. If the acquisition of any one fails then those successfully
 acquired till that point are disposed.
 
+### [`Aggregate`][Aggregate]
+
+Applies multiple accumulators sequentially in a single pass over a sequence.
+
 ### [`AggregateRight`][AggregateRight]
 
 Applies a right-associative accumulator function over a sequence.
@@ -521,6 +525,7 @@ source is already cached or buffered then it is returned verbatim.
 [lookup]: https://docs.microsoft.com/en-us/dotnet/api/system.linq.lookup-2
 
 [Acquire]: ./m/acquire.md
+[Aggregate]: ./m/aggregate.md
 [AggregateRight]: ./m/aggregate-right.md
 [Append]: ./m/append.md
 [Assert]: ./m/assert.md
