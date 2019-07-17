@@ -1,4 +1,4 @@
-# AggregateRight
+# Aggregate
 
 Applies multiple accumulators sequentially in a single pass over a sequence.
 
