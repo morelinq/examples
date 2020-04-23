@@ -23,7 +23,7 @@ FROM microsoft/dotnet:3.0-sdk
 ENV PATH="${PATH}:/root/.dotnet/tools"
 
 RUN dotnet tool install -g dotnet-try --version 1.0.19266.1 \
- && curl -k https://dot.net/v1/dotnet-install.sh \
+ && curl -sSL https://dot.net/v1/dotnet-install.sh \
     | bash /dev/stdin --install-dir /usr/share/dotnet --version 2.1.503 \
  && mkdir /doc
 
