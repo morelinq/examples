@@ -5,7 +5,17 @@ determined via a projection and the default equality comparer for the
 projected type.
 
 ```c# --destination-file ../code/Program.cs --region statements --project ../code/TryMoreLinq.csproj
-// TODO add example
+List<Person> people = new List<Person>() {
+	new Person() { name = "Jhon", email = "jhon@github.com" },
+	new Person() { name = "Annie", email = "annie@github.com" },
+	new Person() { name = "Jhon", email = "jhonny@github.com" }
+};
+
+List<Person> uniquePeople = people.DistinctBy((person) => person.name).ToList();
+
+// At this point uniquePeople contains:
+//   new Person() { name = "Jhon", email = "jhon@github.com" },
+//   new Person() { name = "Annie", email = "anni@github.com" }
 ```
 
 For more details, [see the documentation][doc].
