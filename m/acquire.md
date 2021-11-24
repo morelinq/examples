@@ -136,3 +136,4 @@ improvement. Alternatively, you can also [report an issue you see][issue].
 [q]: https://stackoverflow.com/questions/21483023/morelinq-acquire-what-does-it-do
 [a]: https://stackoverflow.com/a/21483151/6682
 [disposable]: https://docs.microsoft.com/en-us/dotnet/api/system.idisposable
+[Delegating]: https://github.com/atifaziz/Delegating
